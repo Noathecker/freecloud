@@ -98,7 +98,7 @@
   .pc-card{background:#1a1f2e;border:1px solid #2a3150;border-radius:16px;overflow:hidden;box-shadow:var(--shadow)}
   .pc-card img{width:100%;display:block}
   .pc-meta{padding:12px}
-    .pc-title{font-weight:800;margin-bottom:8px}
+  .pc-title{font-weight:800;margin-bottom:8px}
   .pc-btn{width:100%;border-radius:14px}
   @media (max-width:480px){.pc-grid{grid-template-columns:1fr}}
 
@@ -148,7 +148,7 @@
       <div class="frate">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4glUr2xPGpaR3fa1fnM_EQptXeDnrIKCFf5464Z5GQ&s">
           <path d="M12 2l2.9 6.2 6.8.7-5 4.6 1.4 6.5L12 17l-6.1 3.1L7.3 13 2.4 8.9l6.8-.7L12 2z" fill="#ffd24d"/>
-        </svg>
+		   </svg>
         4.5
       </div>
       <div class="finfo">
@@ -198,7 +198,7 @@
       <button class="btn" onclick="window.location.href='https://testdrive-int2.now.gg/apps/cognosphere-pte-ltd/1591/honkai-star-rail.html'">Chơi</button>
     </div>
     <div class="tile">
-    <div class="box" style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiheFLjcFKcK1SVMW6MDNjUUZk6Rde5OakKregOl2xiA&s');background-size:cover;background-position:center"></div>
+	  <div class="box" style="background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiheFLjcFKcK1SVMW6MDNjUUZk6Rde5OakKregOl2xiA&s');background-size:cover;background-position:center"></div>
       <div class="label"> Gacha Life 2</div>
       <div class="sub">Không lỗi tải app</div>
       <button class="btn" onclick="window.location.href='https://testdrive-int2.now.gg/apps/lunime/5691/gacha-life-2.html'">Chơi</button>
@@ -248,7 +248,7 @@
   <div class="tile">
       <div class="box" style="background-image:url('https://cdn.now.gg/apps-content/9887/icon/scarlet-girls.png');background-size:cover;background-position:center"></div>
       <div class="label">Scarlett Girl </div>
-      <div class="sub"> Lỗi tải app</div>
+	  <div class="sub"> Lỗi tải app</div>
       <button class="btn" onclick="window.location.href='https://webproxy.proxyshare.com/e41b9ac2eb094f66803d6377132112c4/_rhsvMJ2t://Jyj.2q/BTjw/JXkX5T~kj/rr88/3ngUdpFKE7LC-.hK00'">Chơi</button>
   </div>
   <div class="tile">
@@ -298,7 +298,7 @@
 <!-- Khám phá tab content -->
 <div id="exploreTab" style="display:none;flex:1;flex-direction:column;align-items:center;justify-content:flex-start;padding:16px;gap:16px">
   <div style="width:100%;max-width:420px;aspect-ratio:16/9;background:#000;border-radius:12px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,0.5)">
-  <iframe id="exploreVideo" width="100%" height="100%" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Video" frameborder="0" allowfullscreen></iframe>
+    <iframe id="exploreVideo" width="100%" height="100%" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Video" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="width:100%;max-width:420px">
     <div style="width:100%;height:120px;border-radius:12px;padding:10px;font-size:14px;background:#1a1f2e;color:#e6e9f0;overflow:auto">Cách sử dụng vpn</div>
@@ -398,7 +398,7 @@
       <img src="https://i.ytimg.com/vi/Yl0GOxTiQ40/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzIrI4rlcAZ0Afz7XuFpIqvZgFmQ" alt="Baldur's Gate 3">
       <div class="pc-meta"><div class="pc-title">Blox Fruit </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/Blox-fruit/19901/Blox-fruit.html'">Chơi</button>
     </div>
-    <div class="pc-card">
+	<div class="pc-card">
       <img src="https://cdn-media.sforum.vn/storage/app/media/Bookgrinder2/genshin-impact-57-0.jpg" alt="Baldur's Gate 3">
       <div class="pc-meta"><div class="pc-title">Genshin Impact </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/cognosphere-pte-ltd-/1773/genshin-impact.html'">Chơi</button>
     </div>
@@ -448,7 +448,7 @@
     </div>
     <div class="pc-card">
       <img src="https://img.konami.com/kde_cms/eu_publish/uploads/efootball2024_mainvisual_messi-600x338.jpg" alt="Baldur's Gate 3">
-      <div class="pc-meta"><div class="pc-title">Football 2024</div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/a/2641/b.html'">Chơi</button>
+	 <div class="pc-meta"><div class="pc-title">Football 2024</div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/a/2641/b.html'">Chơi</button>
     </div>
     <div class="pc-card">
       <img src="https://i.pinimg.com/originals/76/d3/28/76d328d6498b75cb168cf4543eefc71f.jpg" alt="Baldur's Gate 3">
@@ -498,7 +498,7 @@
       <img src="https://cdn-www.bluestacks.com/bs-images/yj54rtre.jpg" alt="Baldur's Gate 3">
       <div class="pc-meta"><div class="pc-title">Scarlett Girl </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/burstgame/9887/scarlet-girls.html'">Chơi</button>
     </div>
-    <div class="pc-card">
+	<div class="pc-card">
       <img src="https://playee.vn/_next/image?url=https%3A%2F%2Fcdn-thumb.playee.net%2Ffast%2Ffilters%3Aquality(100)%3Aformat(webp)%2Fstatic.playee.net%2Fplayeegp%2Ffile-image-lords_mobile_khuyen_mai_nap_playee_8_jpg_1736221629&w=3840&q=75" alt="Baldur's Gate 3">
       <div class="pc-meta"><div class="pc-title">Lords Mobile </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/igg-com/2581/lords-mobile.html'">Chơi</button>
     </div>
@@ -548,7 +548,7 @@
     </div>
     <div class="pc-card">
       <img src="https://static.iwmbuzz.com/wp-content/uploads/2022/04/from-playing-on-pc-to-playing-with-friends-heres-what-you-need-to-know-about-lokicraft-920x518.jpeg" alt="Baldur's Gate 3">
-      <div class="pc-meta"><div class="pc-title">LokiCraft </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/akseno/6283/lokicraft.html'">Chơi</button>
+	<div class="pc-meta"><div class="pc-title">LokiCraft </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/akseno/6283/lokicraft.html'">Chơi</button>
     </div>
     <div class="pc-card">
       <img src="https://gamek.mediacdn.vn/133514250583805952/2025/8/7/528235492306778889085236141243899926794795222n-1754544187803-1754544189134983432803.jpg" alt="Baldur's Gate 3">
@@ -598,7 +598,7 @@
       <img src="https://cdn-www.bluestacks.com/bs-images/fb-pc.jpg" alt="Baldur's Gate 3">
       <div class="pc-meta"><div class="pc-title">Facebook </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/meta-platforms-inc/1226/facebook.html'">Chơi</button>
     </div>
-     <div class="pc-card">
+	<div class="pc-card">
       <img src="https://cdn.tgdd.vn/hoi-dap/1356493/instagram-la-gi-instagram-co-diem-gi-khac-biet-so-voi-1-800x533.jpg" alt="Baldur's Gate 3">
       <div class="pc-meta"><div class="pc-title">Instagram </div><button class="btn pc-btn" onclick="window.location.href='https://now.gg/apps/instagram/1228/instagram.html'">Chơi</button>
     </div>
@@ -698,7 +698,7 @@ document.querySelectorAll('.btab').forEach(tab => {
     document.querySelector('.search-wrap').style.display='none';
     document.querySelector('.quick').style.display='none';
     document.querySelectorAll('.section, .featured, .hlist, .gift, #exploreTab, #vipTab, #myTab').forEach(e=>e.style.display='none');
-    if(txt.includes('Trang chủ')){
+	if(txt.includes('Trang chủ')){
       document.querySelector('.search-wrap').style.display='block';
       document.querySelector('.quick').style.display='flex';
       document.querySelectorAll('.section, .featured, .hlist, .gift').forEach(e=>e.style.display='');
